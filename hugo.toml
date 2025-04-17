@@ -1,6 +1,6 @@
 title = "biwool's blog"
 theme = 'archie'
-baseURL = 'https://example.org/'
+baseURL = "https://biwool.github.io"
 languageCode = 'en-us'
 
 [caches]
