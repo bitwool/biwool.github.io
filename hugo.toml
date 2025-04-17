@@ -2,3 +2,7 @@ title = "biwool's blog"
 theme = 'archie'
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
