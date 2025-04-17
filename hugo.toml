@@ -1,0 +1,4 @@
+title = "biwool's blog"
+theme = 'archie'
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
